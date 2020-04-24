@@ -6,3 +6,5 @@ We covered:
 * Python Syntax
 * NumPy
 * Making plots with Matplotlib.
+
+I'm making this change from GitHub!
