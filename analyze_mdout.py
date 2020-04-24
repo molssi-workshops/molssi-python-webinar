@@ -1,3 +1,8 @@
+"""
+This is the solution for Week 3 homework.
+"""
+
+
 import os
 import argparse
 
